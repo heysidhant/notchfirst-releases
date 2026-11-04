@@ -4,5 +4,13 @@
     <title>NotchFirst</title>
     <language>en</language>
     <!-- Releases, newest first. Scripts/release.sh adds them here. -->
+    <item>
+      <title>NotchFirst 1.0.0</title>
+      <pubDate>Wed, 04 Nov 2026 22:19:13 +0530</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/heysidhant/notchfirst-releases/releases/download/v1.0.0/NotchFirst-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="qCFZNfE7/ewz2b7xkX5cJm8F2ke7qVFh8ibQ9/3y5Y9Z4W93CG+c78nMEkLpnrmTN5cU+HGxYP+57kwof9RCCw==" length="2793711"/>
+    </item>
   </channel>
 </rss>
